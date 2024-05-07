@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Generic-Queue
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+GenericQueue              KEYWORD1
+QueueState                KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+onStateChanged            KEYWORD2
+clear                     KEYWORD2
+dequeue                   KEYWORD2
+enqueue                   KEYWORD2
+forEach                   KEYWORD2
+isEmpty                   KEYWORD2
+isFull                    KEYWORD2
+peek                      KEYWORD2
+tryDequeue                KEYWORD2
+tryPeek                   KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+DEQUEUE                   LITERAL1
+ENQUEUE                   LITERAL1
